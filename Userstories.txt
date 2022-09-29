@@ -1,0 +1,17 @@
+CASE STUDY : KL UNIVERSITY ERP
+
+      Kl University is offering various Engineering, Management, Humanities and Science courses to the students. University management planned to use online software for entire 
+course management. The objective of the software of the software is to share online resourses among faculty and student community. There are different user roles to be defined
+by KLU management. The roles are Administrator, Officer, Faculty, and Student. The administrator is whole responsible person for smooth running of entire system. The adminis-
+-trator will create a username and password tothe other roles of the users by giving all the details of the user. The Officer role is to generate reports including the student status, 
+course additions and deletions etc.
+
+              Initialy the admitted student has to register with his/her details in the system. Upon registration in the system courses by choosing course and faculty name. After registr-
+-ation, the student will able to view the time table, attendance and course material shared by concerned faculty members. Student can view the list of books available in library.
+
+             The student can take the books from libraray on the loan basis. Student can view the status of library books and other details like due date, fines etc. The student can also 
+view the list of the books available in library.
+
+             The student can register for hostel faculty. Hostel authority will verify the details of the student, may approve his/her hostel seat depending on various parameters (discip-
+-line, academic performance etc.). Once allotment is done student can view the fees dues.
+ 
