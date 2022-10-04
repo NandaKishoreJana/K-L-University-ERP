@@ -1,0 +1,8 @@
+MILESTONES 1: Conduct a Discovery in the Office.
+MILESTONES 2: Conduct a Discovery on the Shop Floor.
+MILESTONES 3: Planning Document with Milestones.
+MILESTONES 4: Documentation of Existing Bussiness Process.
+MILESTONES 5: Assess Whether Bussiness Processes Fit with System Functionality.
+MILESTONES 6: Reengineer the Business Processes.
+MILESTONES 7: Allocate All Needed Resources.
+MILESTONES 8: Create Decomentation.
